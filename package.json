@@ -23,6 +23,6 @@
     "eslint": "^1.10.3"
   },
   "scripts": {
-    "test": "ava && eslint *.js"
+    "test": "ava"
   }
 }
