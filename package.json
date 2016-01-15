@@ -1,0 +1,28 @@
+{
+  "name": "postcss-font-normalize",
+  "version": "0.0.0",
+  "description": "PostCSS plugin to normalize font-family",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "font-family"
+  ],
+  "author": "iahu <iahu1988@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/iahu/postcss-font-normalize",
+  "bugs": {
+    "url": "https://github.com/iahu/postcss-font-normalize/issues"
+  },
+  "homepage": "https://github.com/iahu/postcss-font-normalize",
+  "dependencies": {
+    "postcss": "^5.0.14"
+  },
+  "devDependencies": {
+    "ava": "^0.9.1",
+    "eslint": "^1.10.3"
+  },
+  "scripts": {
+    "test": "ava && eslint *.js"
+  }
+}
